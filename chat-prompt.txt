@@ -2,7 +2,7 @@ write an  Alien Shooter game. in html, css, and javascript. output each file sep
 has one spaceship with multiple aliens. 
 user can control the space ship with the mouse. the space ship will track the mouse.
 the spaceship can fire on aliens
-mouse left click fire on aliens. the spaceship will continue to shoot every 500 milisends as long as the right key is pressed.
+mouse left click fire on aliens. the spaceship will continue to shoot every 500 milisends as long as the left key is pressed.
 every alien that was shot the user would get 10 points.
 aliens move in groups of 10 in a matrix of 5 by 2.
 aliens move from right to left or left to right.
